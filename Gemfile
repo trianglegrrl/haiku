@@ -1,7 +1,3 @@
 source 'http://rubygems.org'
 
-gem 'nokogiri'
-gem 'prettyprint'
-gem 'capybara'
-gem 'poltergeist'
-gem 'pry'
+gem 'haiku_gadget', '~> 1.0.12'
